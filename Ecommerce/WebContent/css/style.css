@@ -1,0 +1,54 @@
+.menu ul li {
+    list-style: none;
+    float: left;
+    margin-right: 10px;
+}.menu {
+    background: #1293EE;
+    color: #fff;
+    float: left;
+    width: 100%;
+    height: 48px;
+}
+ .menu ul li a:hover {
+    background: lightblue;
+}
+ .menu ul li a {
+    color: #fff;
+    padding: 15px;
+    text-decoration: none;  
+}
+
+.body {
+background:(“images/ff.jpg”) no-repeat;
+}
+
+.login {
+	float:right;
+}
+.header{
+	
+    background-color: lightblue;
+    
+    padding: 15px;
+    color: :grey;
+    text-align: center;
+}	
+	
+.product {
+ float: left;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+   
+    border: 1px solid #000;
+    width: 13%;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    background-color:cadetblue;
+}
+ .image {
+    width: 200px;
+    height: 308px;
+ }
